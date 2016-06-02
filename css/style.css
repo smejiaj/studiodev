@@ -57,6 +57,7 @@ header nav a.active {
 	width: 80px;
 	border-top: 5px solid #fed136;
 	margin: 0 auto;
+	border-radius: 50%;
 }
 
 #home p {
